@@ -1,4 +1,3 @@
-
 @: README
 
 # Day 02
@@ -27,15 +26,15 @@ Containers and guides. (Not shown in the guide is behind the title/author name, 
 
 ![][image-3]
 
-[1]:	http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
-[2]:	http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html
-[3]:	http://www.w3schools.com/css/css_id_class.asp
-[4]:	http://www.w3schools.com/css/css_float.asp
-[5]:	http://webdesign.about.com/od/css/a/css-vendor-prefixes.htm
-[6]:	http://css3please.com
-[7]:	http://www.flickr.com/photos/abeyang/sets/72157623496916868/page4/
-[8]:	http://www.flickr.com/photos/abeyang/sets/72157623496916868/page5/
+[1]:http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
+[2]:http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html
+[3]:http://www.w3schools.com/css/css_id_class.asp
+[4]:http://www.w3schools.com/css/css_float.asp
+[5]:http://webdesign.about.com/od/css/a/css-vendor-prefixes.htm
+[6]:http://css3please.com
+[7]:http://www.flickr.com/photos/abeyang/sets/72157623496916868/page4/
+[8]:http://www.flickr.com/photos/abeyang/sets/72157623496916868/page5/
 
-[image-1]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02.jpg
-[image-2]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02-containers.jpg
-[image-3]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02-guides.jpg
+[image-1]:https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02.jpg
+[image-2]:https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02-containers.jpg
+[image-3]:https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02-guides.jpg
