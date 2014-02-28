@@ -17,7 +17,15 @@
 
 ## Homework
 
-(If you need images, you can find some quality photos [here][7] and [here][8].) =D
+Create a copy of your first homework file -- we'll be building on top of it. (If you need images, you can find some quality photos [here][7] and [here][8].) =D
+
+![][image-1]
+
+Containers and guides. (Not shown in the guide is behind the title/author name, **there is a gradient that goes from transparent to a 50% black**. See if you can get this into your code as well -- no images!)
+
+![][image-2]
+
+![][image-3]
 
 [1]:	http://coding.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 [2]:	http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html
@@ -27,3 +35,7 @@
 [6]:	http://css3please.com
 [7]:	http://www.flickr.com/photos/abeyang/sets/72157623496916868/page4/
 [8]:	http://www.flickr.com/photos/abeyang/sets/72157623496916868/page5/
+
+[image-1]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02.jpg
+[image-2]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02-containers.jpg
+[image-3]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/02.%20Floats%20and%20CSS3/homework/hw02-guides.jpg
