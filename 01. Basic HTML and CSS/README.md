@@ -1,4 +1,3 @@
-
 # Day 01
 
 ## Lesson
@@ -31,5 +30,5 @@ And the guide:
 [5]:	http://www.wikihow.com/Understand-Hexadecimal
 [6]:	http://www.w3schools.com/html/html_colors.asp
 
-[image-1]:	%20https://raw.github.com/abeyang/Web-Dev-Tutorials/master/01.%20Basic%20HTML%20and%20CSS/homework/hw01.jpg
-[image-2]:	https://raw.github.com/abeyang/Web-Dev-Tutorials/master/01.%20Basic%20HTML%20and%20CSS/homework/hw01-guides.jpg
+[image-1]:https://raw.github.com/abeyang/Web-Dev-Tutorials/master/01.%20Basic%20HTML%20and%20CSS/homework/hw01.jpg
+[image-2]:https://raw.github.com/abeyang/Web-Dev-Tutorials/master/01.%20Basic%20HTML%20and%20CSS/homework/hw01-guides.jpg
